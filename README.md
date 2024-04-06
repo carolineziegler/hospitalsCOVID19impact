@@ -33,12 +33,11 @@ To interact with the analysis scripts and notebooks:
 - Ensure Python is installed on your computer.
 - Install necessary Python libraries via pip:
 
-    pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
-
 Navigate to the folder containing the downloaded scripts and notebooks.
 Run Jupyter Notebook or JupyterLab:
 
     jupyter notebook
+    pip install pandas numpy matplotlib seaborn statsmodels scikit-learn
 
 ## **Usage**
 
